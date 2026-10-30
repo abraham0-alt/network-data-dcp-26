@@ -36,4 +36,4 @@ Data is collected strictly through **manual, real-world observation and human ef
 | **`upload_mbps`** | Numeric | Mbps | Upload speed read directly from the screen[cite: 2]. |
 | **`latency_ms`** | Numeric | Milliseconds (ms) | Ping/latency value read directly from the screen[cite: 2]. |
 
-
+git repo link: https://github.com/abraham0-alt/network-data-dcp-26.git
