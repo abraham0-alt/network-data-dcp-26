@@ -1,2 +1,12 @@
-﻿date,time,location,network_name,device,download_speed,upload_speed,latency
-,,,,,,,
+﻿date,time,location,network_name,device,test_tool,download_speed,upload_speed,latency
+03/11/2026,18:44:00,Bedroom,Ask4 Wireless (802.1x),M1 Macbook Air,ooklaspeedtest,239.29,204.65,7
+03/11/2026,19:39:00,Bedroom,Ask4 Wireless (802.1x),iPhone 17,googlespeedtest,233.8,222.7,5
+03/11/2026,20:21:00,Kitchen,Ask4 Resident ,M1 Macbook Air,googlespeedtest,80.9,76.4,19
+03/11/2026,22:01:00,Bedroom,Ask4 Resident ,iPhone 17,ooklaspeedtest,90.38,80.23,13
+03/11/2026,23:46:00,Kitchen,Ask4 Wireless (802.1x),iPhone 17,googlespeedtest,246.8,230.7,4
+05/11/2026,13:33:00,Gym,Ask4 Resident ,iPhone 17,googlespeedtest,76.2,70.5,19
+05/11/2026,15:47:00,Gym,Ask4 Wireless (802.1x),iPhone 17,ooklaspeedtest,232.75,230.08,8
+05/11/2026,18:29:00,Kitchen,Ask4 Wireless (802.1x),M1 Macbook Air,ooklaspeedtest,240,238.9,6
+05/11/2026,21:53:00,Bedroom,Ask4 Resident ,M1 Macbook Air,googlespeedtest,77.9,72.45,17
+05/11/2026,23:11:00,Bedroom,Ask4 Resident ,M1 Macbook Air,ooklaspeedtest,83.56,80.87,15
+,,,,,,,,
